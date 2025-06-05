@@ -2,7 +2,7 @@
 
 The **MS Teams Observability Dynatrace Application** provides ready‑to‑use visualizations to monitor Teams into **Dynatrace**. 
 
-All visualizations are based on data sent by [**MS Teams Observability Agent**](https://github.com/Phenisys/microsoft-teams-observability-agent).
+All visualizations are based on data sent by [**MS Teams Observability Agent**](https://github.com/Phenisys/microsoft-teams-observability).
 
 For full installation and configuration instructions, see **microsoft-teams-observability repository** [here](https://github.com/Phenisys/microsoft-teams-observability).
 
