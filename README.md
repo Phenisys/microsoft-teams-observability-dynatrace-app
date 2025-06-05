@@ -20,7 +20,11 @@ Dynatrace Hub page : [here](https://www.dynatrace.com/hub/detail/microsoft-teams
 
 ### Calls list
 
-![App_#3_Tab_ChooseCall](https://github.com/user-attachments/assets/24ac5f8f-bff7-4848-883d-b2af1d8afe85)
+![image](https://github.com/user-attachments/assets/3913a0d9-7fb7-479f-a956-ad566dc9be9a)
+
+### Call Details
+
+![image](https://github.com/user-attachments/assets/b426c6f0-6ae6-49e8-9978-03729ff694ee)
 
 ### MS Teams Published Issues
 
@@ -28,4 +32,4 @@ Dynatrace Hub page : [here](https://www.dynatrace.com/hub/detail/microsoft-teams
 
 ### Teams performance by locations
 
-![image](https://github.com/user-attachments/assets/90066f2b-af47-4caf-9f1a-8ec9ea475097)
+![image](https://github.com/user-attachments/assets/62ee70f5-3761-4797-83cf-a3846a9b67cf)
