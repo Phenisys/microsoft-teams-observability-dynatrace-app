@@ -16,20 +16,20 @@ Dynatrace Hub page : [here](https://www.dynatrace.com/hub/detail/microsoft-teams
 
 ### Main page
 
-![image](https://github.com/user-attachments/assets/1578f49f-4170-40af-a7db-f71653c48a33)
+![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%231_Tab_Home.png)
 
 ### Calls list
 
-![image](https://github.com/user-attachments/assets/3913a0d9-7fb7-479f-a956-ad566dc9be9a)
+![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%233_Choose_Call.png)
 
 ### Call Details
 
-![image](https://github.com/user-attachments/assets/b426c6f0-6ae6-49e8-9978-03729ff694ee)
+![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%234_Tab_CallRecordOverview.png)
 
 ### MS Teams Published Issues
 
-![image](https://github.com/user-attachments/assets/b4444ab5-ff7f-4068-949d-96774de44a41)
+![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%235_Tab_MicrosoftIssues.png)
 
 ### Teams performance by locations
 
-![image](https://github.com/user-attachments/assets/62ee70f5-3761-4797-83cf-a3846a9b67cf)
+![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%232_Site_Overview.png)
