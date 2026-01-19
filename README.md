@@ -1,35 +1,93 @@
-# MS Teams Observability - Dynatrace Application
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?logo=download)](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases/download/v2.2.0/ms-teams-dynatrace-app-v2.2.0.zip)
+[![All Releases](https://img.shields.io/badge/Releases-All-blue?logo=github)](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases)
+[![Dynatrace Hub](https://img.shields.io/badge/Dynatrace-Hub-1e8c8f)](https://www.dynatrace.com/hub/detail/microsoft-teams-observability/)
+[![Microsoft Teams Observability](https://img.shields.io/badge/Microsoft_Teams_Observability-Agent-blue)]([https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app](https://github.com/Phenisys/microsoft-teams-observability))
 
-The **MS Teams Observability Dynatrace Application** provides ready‑to‑use visualizations to monitor Teams into **Dynatrace**. 
 
-All visualizations are based on data sent by [**MS Teams Observability Agent**](https://github.com/Phenisys/microsoft-teams-observability).
+# MS Teams Observability — Dynatrace Application
 
-For full installation and configuration instructions, see **microsoft-teams-observability repository** [here](https://github.com/Phenisys/microsoft-teams-observability).
+The **MS Teams Observability Dynatrace Application** provides ready-to-use visualizations to monitor Microsoft Teams inside **Dynatrace**.
 
-Dynatrace Hub page : [here](https://www.dynatrace.com/hub/detail/microsoft-teams-observability/).
+It helps organizations analyze user experience, detect performance degradations, correlate Microsoft service incidents and support troubleshooting workflows across operational and engineering teams.
+
+The application consumes telemetry from the [**MS Teams Observability Agent**](https://github.com/Phenisys/microsoft-teams-observability), which collects enriched call quality metrics from Microsoft Teams.  
+
+The application can also run in **demo mode** using built-in sample data for evaluation or presentations without requiring the agent.
+
+---
 
 ## Downloads
-- **Latest build** – grab the platform package from the [latest release page](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases/latest).
-- Need an older version? See **all releases** [here](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases).
+
+To obtain the application:
+
+- **Latest release (recommended)** — see release notes and package: [here](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases/latest)
+
+- **Direct download of the latest package**: [download](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases/download/v2.2.0/ms-teams-dynatrace-app-v2.2.0.zip)
+
+---
 
 ## Visualizations
 
-### Main page
+The application provides several views addressing different operational needs:
 
-![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%231_Tab_Home.png)
+### 1. Main Overview
 
-### Calls list
+High-level summary of Teams usage and performance for service monitoring and operational awareness.
 
-![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%233_Choose_Call.png)
+<img width="1744" height="1042" alt="image" src="https://github.com/user-attachments/assets/f3d07bb4-a512-4bbd-8cc0-22cc0fde767d" />
 
-### Call Details
+---
 
-![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%234_Tab_CallRecordOverview.png)
+### 2. Calls List
 
-### MS Teams Published Issues
+Entry point for support investigations, listing user calls with quality indicators for rapid filtering and triage.
 
-![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%235_Tab_MicrosoftIssues.png)
+<img width="1744" height="1047" alt="image" src="https://github.com/user-attachments/assets/4cab13a2-3960-4504-961c-4a308dd6d6c3" />
 
-### Teams performance by locations
+---
 
-![image](https://github.com/Phenisys/microsoft-teams-observability/blob/main/src/assets/images/Dynatrace/App_%232_Site_Overview.png)
+### 2. Users List
+
+Displays all users within a specified timeframe.
+
+<img width="1746" height="1048" alt="image" src="https://github.com/user-attachments/assets/6b4fd5d3-f740-49e5-a3db-e9f8d963a060" />
+
+---
+
+### 3. Call Details
+
+Detailed analysis of a single call including QoE metrics, jitter, packet loss, codecs, segments and user experience components.
+
+<img width="1728" height="921" alt="image" src="https://github.com/user-attachments/assets/fc1e834d-7ad7-4e8c-9dd6-0372427cc537" />
+
+---
+
+### 4. Microsoft Published Issues
+
+Displays Microsoft-published incidents and outages to support correlation during degradations.
+
+<img width="1732" height="1045" alt="image" src="https://github.com/user-attachments/assets/d029f5fa-0cd7-41a5-80bc-7cdc16088157" />
+
+---
+
+### 5. Performance by Location
+
+Shows geographical, site or provider-level variations in performance to understand scope and impact.
+
+<img width="1741" height="1045" alt="image" src="https://github.com/user-attachments/assets/35cc9c0b-759e-41b6-9806-ed8e7b74550e" />
+
+---
+
+## Requirements
+
+For production usage with real telemetry, install the **MS Teams Observability Agent**:  
+https://github.com/Phenisys/microsoft-teams-observability
+
+---
+
+## Additional Information
+
+Dynatrace Hub listing:  
+https://www.dynatrace.com/hub/detail/microsoft-teams-observability/
+
+Issues and feature requests can be submitted by opening a GitHub Issue.
