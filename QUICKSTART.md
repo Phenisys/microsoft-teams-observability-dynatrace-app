@@ -8,6 +8,14 @@
 
 # Microsoft Teams Observability for Dynatrace — Quickstart
 
+<p align="center">
+  <img
+    alt="image"
+    src="https://github.com/user-attachments/assets/f9bd096b-5b7f-43e3-b634-b3f0becd4930"
+    style="width:5%;"
+  />
+</p>
+
 Monitor Microsoft Teams call quality, performance, outages, and user experience directly inside **Dynatrace**.
 
 ---
