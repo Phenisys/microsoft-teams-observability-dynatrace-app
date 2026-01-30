@@ -76,7 +76,7 @@ To monitor your own Teams environment and unlock full functionality, two steps a
    Agent repo: https://github.com/Phenisys/microsoft-teams-observability
 
 2. **Obtain a License from Phenisys**  
-   → Start with a **[Free Trial](https://www.phenisys.com/ms-teams-observability-free-trial/)** or contact Phenisys to enable live data for production usage and full feature set
+   → Start with a **[Free Trial](https://phenisys.notion.site/17b56c8e31f7806b8cd4e0debfe539fb)** or contact Phenisys to enable live data for production usage and full feature set
 
 Once the agent is connected and licensed, your own calls, users, segments and locations will automatically populate the dashboards.
 
