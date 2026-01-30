@@ -107,7 +107,7 @@ Once the agent is connected and licensed, your own calls, users, segments and lo
   https://www.dynatrace.com/hub/detail/microsoft-teams-observability/
 
 - **Free Trial:**  
-  https://www.phenisys.com/ms-teams-observability-free-trial/
+  [Get it here !](https://phenisys.notion.site/17b56c8e31f7806b8cd4e0debfe539fb)
 
 - Licensing / Enterprise usage:  
   **Contact Phenisys**  
