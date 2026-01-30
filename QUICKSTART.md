@@ -1,11 +1,10 @@
-[![Download App](https://img.shields.io/badge/Download_App-Latest-brightgreen?logo=download)](https://github.com/Phenisys/teams-observability-dynatrace-app/releases/download/v2.3.1/ms-teams-dynatrace-app-v2.3.1.zip)
+[![Download App](https://img.shields.io/badge/Download_App-Latest-brightgreen?logo=download)](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases/download/v2.3.1/ms-teams-dynatrace-app-v2.3.1.zip)
 [![All Releases](https://img.shields.io/badge/Releases-All-blue?logo=github)](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases)
 [![App Source](https://img.shields.io/badge/App_Repo-GitHub-lightgrey?logo=github)](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app)
 [![Agent Collector](https://img.shields.io/badge/Teams_Observability_Agent-Repo-ffcc00?logo=github)](https://github.com/Phenisys/microsoft-teams-observability)
 [![Dynatrace Hub](https://img.shields.io/badge/Dynatrace-Hub-1e8c8f)](https://www.dynatrace.com/hub/detail/microsoft-teams-observability/)
 
 ---
-
 
 # Microsoft Teams Observability for Dynatrace — Quickstart
 
@@ -33,7 +32,7 @@ Monitor Microsoft Teams call quality, performance, outages, and user experience 
 
 1. **Download the latest app package**
 
-   [![Download App](https://img.shields.io/badge/Download_App-Latest-brightgreen?logo=download)](https://github.com/Phenisys/teams-observability-dynatrace-app/releases/download/v2.3.1/ms-teams-dynatrace-app-v2.3.1.zip)
+   [![Download App](https://img.shields.io/badge/Download_App-Latest-brightgreen?logo=download)](https://github.com/Phenisys/microsoft-teams-observability-dynatrace-app/releases/download/v2.3.1/ms-teams-dynatrace-app-v2.3.1.zip)
 
 3. In Dynatrace, go to:  
    **Hub → Upload app → Select the ZIP file**
