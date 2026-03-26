@@ -22,7 +22,7 @@ Monitor Microsoft Teams call quality, performance, outages, and user experience 
 
 ## 1. Prerequisites
 
-- Access to a **Dynatrace environment** (SaaS or Managed)
+- Access to a **Dynatrace environment** (SaaS only)
 - Permissions to **upload/install custom apps**
 - _(Optional for Live mode)_ Ability to deploy the **MS Teams Observability Agent**
 
